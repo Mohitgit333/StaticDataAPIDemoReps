@@ -28,10 +28,10 @@ D:\Sandeep sir Azure Night Batch\Azure Sample Projects\mystaticwebapi\src\employ
 D:\Sandeep sir Azure Night Batch\Azure Sample Projects\mystaticwebapi\src\employeeservice\obj\Debug\net8.0\staticwebassets.development.json
 D:\Sandeep sir Azure Night Batch\Azure Sample Projects\mystaticwebapi\src\employeeservice\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 D:\Sandeep sir Azure Night Batch\Azure Sample Projects\mystaticwebapi\src\employeeservice\obj\Debug\net8.0\swae.build.ex.cache
-D:\Sandeep sir Azure Night Batch\Azure Sample Projects\mystaticwebapi\src\employeeservice\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\Sandeep sir Azure Night Batch\Azure Sample Projects\mystaticwebapi\src\employeeservice\obj\Debug\net8.0\employee.F4AC3937.Up2Date
 D:\Sandeep sir Azure Night Batch\Azure Sample Projects\mystaticwebapi\src\employeeservice\obj\Debug\net8.0\employeeservice.dll
 D:\Sandeep sir Azure Night Batch\Azure Sample Projects\mystaticwebapi\src\employeeservice\obj\Debug\net8.0\refint\employeeservice.dll
 D:\Sandeep sir Azure Night Batch\Azure Sample Projects\mystaticwebapi\src\employeeservice\obj\Debug\net8.0\employeeservice.pdb
 D:\Sandeep sir Azure Night Batch\Azure Sample Projects\mystaticwebapi\src\employeeservice\obj\Debug\net8.0\employeeservice.genruntimeconfig.cache
 D:\Sandeep sir Azure Night Batch\Azure Sample Projects\mystaticwebapi\src\employeeservice\obj\Debug\net8.0\ref\employeeservice.dll
+D:\Sandeep sir Azure Night Batch\Azure Sample Projects\mystaticwebapi\src\employeeservice\obj\Debug\net8.0\employeeservice.sourcelink.json

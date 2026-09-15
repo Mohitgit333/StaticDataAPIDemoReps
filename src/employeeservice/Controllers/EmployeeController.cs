@@ -24,6 +24,19 @@ namespace employeeservice.Controllers
                     Id = 2,
                     Name = "Amit Kumar",
                     Salary = 55000
+                },
+                 new Employee
+                {
+                    Id = 2,
+                    Name = "Manisha",
+                    Salary = 555000
+                }
+                ,
+                 new Employee
+                {
+                    Id = 2,
+                    Name = "Manish",
+                    Salary = 975000
                 }
             };
 
