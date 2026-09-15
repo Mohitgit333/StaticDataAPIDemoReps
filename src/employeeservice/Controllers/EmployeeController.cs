@@ -35,7 +35,7 @@ namespace employeeservice.Controllers
                  new Employee
                 {
                     Id = 2,
-                    Name = "Manish",
+                    Name = "Mahesh",
                     Salary = 975000
                 }
             };
