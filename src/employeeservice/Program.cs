@@ -1,0 +1,24 @@
+
+
+using System;
+
+var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddControllers();
+// Swagger
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
+var app = builder.Build();
+
+// Swagger
+app.UseSwagger();
+app.UseSwaggerUI();
+// app.UseCors("AllowReactApp");
+app.UseHttpsRedirection();
+
+app.UseAuthorization();
+
+app.MapControllers();
+
+app.Run();

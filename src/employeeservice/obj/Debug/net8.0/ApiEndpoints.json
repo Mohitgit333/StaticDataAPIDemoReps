@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "employeeservice.Controllers.EmployeeController",
+    "Method": "GetAll",
+    "RelativePath": "api/Employee",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

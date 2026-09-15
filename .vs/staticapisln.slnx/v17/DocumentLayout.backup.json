@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sandeep sir Azure Night Batch\\Azure Sample Projects\\mystaticwebapi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC288425-3C84-70F7-7EC3-C960CF821F3D}|src\\employeeservice\\employeeservice.csproj|d:\\sandeep sir azure night batch\\azure sample projects\\mystaticwebapi\\src\\employeeservice\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC288425-3C84-70F7-7EC3-C960CF821F3D}|src\\employeeservice\\employeeservice.csproj|solutionrelative:src\\employeeservice\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC288425-3C84-70F7-7EC3-C960CF821F3D}|src\\employeeservice\\employeeservice.csproj|d:\\sandeep sir azure night batch\\azure sample projects\\mystaticwebapi\\src\\employeeservice\\employeeservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EC288425-3C84-70F7-7EC3-C960CF821F3D}|src\\employeeservice\\employeeservice.csproj|solutionrelative:src\\employeeservice\\employeeservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC288425-3C84-70F7-7EC3-C960CF821F3D}|src\\employeeservice\\employeeservice.csproj|d:\\sandeep sir azure night batch\\azure sample projects\\mystaticwebapi\\src\\employeeservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC288425-3C84-70F7-7EC3-C960CF821F3D}|src\\employeeservice\\employeeservice.csproj|solutionrelative:src\\employeeservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC288425-3C84-70F7-7EC3-C960CF821F3D}|src\\employeeservice\\employeeservice.csproj|d:\\sandeep sir azure night batch\\azure sample projects\\mystaticwebapi\\src\\employeeservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC288425-3C84-70F7-7EC3-C960CF821F3D}|src\\employeeservice\\employeeservice.csproj|solutionrelative:src\\employeeservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC288425-3C84-70F7-7EC3-C960CF821F3D}|src\\employeeservice\\employeeservice.csproj|d:\\sandeep sir azure night batch\\azure sample projects\\mystaticwebapi\\src\\employeeservice\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC288425-3C84-70F7-7EC3-C960CF821F3D}|src\\employeeservice\\employeeservice.csproj|solutionrelative:src\\employeeservice\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "employeeservice",
+              "DocumentMoniker": "D:\\Sandeep sir Azure Night Batch\\Azure Sample Projects\\mystaticwebapi\\src\\employeeservice\\employeeservice.csproj",
+              "RelativeDocumentMoniker": "src\\employeeservice\\employeeservice.csproj",
+              "ToolTip": "D:\\Sandeep sir Azure Night Batch\\Azure Sample Projects\\mystaticwebapi\\src\\employeeservice\\employeeservice.csproj",
+              "RelativeToolTip": "src\\employeeservice\\employeeservice.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-15T06:57:42.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Sandeep sir Azure Night Batch\\Azure Sample Projects\\mystaticwebapi\\src\\employeeservice\\Program.cs",
+              "RelativeDocumentMoniker": "src\\employeeservice\\Program.cs",
+              "ToolTip": "D:\\Sandeep sir Azure Night Batch\\Azure Sample Projects\\mystaticwebapi\\src\\employeeservice\\Program.cs",
+              "RelativeToolTip": "src\\employeeservice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T06:55:25.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Sandeep sir Azure Night Batch\\Azure Sample Projects\\mystaticwebapi\\src\\employeeservice\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\employeeservice\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Sandeep sir Azure Night Batch\\Azure Sample Projects\\mystaticwebapi\\src\\employeeservice\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\employeeservice\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-15T06:54:48.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Sandeep sir Azure Night Batch\\Azure Sample Projects\\mystaticwebapi\\src\\employeeservice\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "src\\employeeservice\\Models\\Employee.cs",
+              "ToolTip": "D:\\Sandeep sir Azure Night Batch\\Azure Sample Projects\\mystaticwebapi\\src\\employeeservice\\Models\\Employee.cs",
+              "RelativeToolTip": "src\\employeeservice\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T06:51:10.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Sandeep sir Azure Night Batch\\Azure Sample Projects\\mystaticwebapi\\src\\employeeservice\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "src\\employeeservice\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Sandeep sir Azure Night Batch\\Azure Sample Projects\\mystaticwebapi\\src\\employeeservice\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "src\\employeeservice\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T06:48:40.291Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
